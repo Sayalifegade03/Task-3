@@ -1,5 +1,4 @@
 # Task-3
-Python internship
 # import the string and random modules
 import string
 import random
